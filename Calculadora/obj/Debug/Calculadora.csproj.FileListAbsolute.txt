@@ -1,0 +1,21 @@
+D:\infernodec#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\infernodec#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\infernodec#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\infernodec#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\infernodec#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\infernodec#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\infernodec#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\infernodec#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\infernodec#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\2° Semestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\2° Semestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\2° Semestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\2° Semestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\2° Semestre\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\2° Semestre\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+F:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\2° Semestre\C# - Jeferson\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
